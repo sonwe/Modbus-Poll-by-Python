@@ -1,1 +1,5 @@
 # Modbus-Poll-by-Python
+
+现场总线的课程中教了5种典型的实时现场总线参考模型，其中Modbus较为简单并且最为安全应用也较广，所以布置了一项大作业用Java、C++或Python完成Modbus的串口通信
+如果电脑没有物理串口需要通过VSPD创建虚拟串口才可以实现通信
+这个小软件只是作为Modbus的串口通信主站，从站需要下载Modbus Slave形成交互
